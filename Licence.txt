@@ -1,1 +1,10 @@
 Se establece que la licencia de uso de este archivo es libre para ser compartida/leida/modificada.
+
+Se agrega lo siguiente:
+
+1. Será necesario establecer un registro de los cambios y modificaciones realizados.
+2. Notificar a los miembros del equipo los cambios realizados.
+3. Permitir el intercambio de ideas.
+4. Auxiliar a los nuevos miembros del equipo.
+5. Colaborar y compartir nueas ideas.
+
